@@ -1,0 +1,7 @@
+﻿  simulator.cpp
+c:\users\vinay\documents\gt\cs 7496 animation\project2_windows\msvs_proj3\cs4496win_project3\simulator.cpp(47): warning C4018: '<': signed/unsigned mismatch
+c:\users\vinay\documents\gt\cs 7496 animation\project2_windows\msvs_proj3\cs4496win_project3\simulator.cpp(52): warning C4018: '<': signed/unsigned mismatch
+c:\users\vinay\documents\gt\cs 7496 animation\project2_windows\msvs_proj3\cs4496win_project3\simulator.cpp(58): warning C4018: '<': signed/unsigned mismatch
+c:\users\vinay\documents\gt\cs 7496 animation\project2_windows\msvs_proj3\cs4496win_project3\simulator.cpp(64): warning C4018: '<': signed/unsigned mismatch
+  cs4496Win_Project3.vcxproj -> C:\Users\vinay\Documents\GT\CS 7496 Animation\Project2_Windows\MSVS_Proj3\Debug\cs4496Win_Project3.exe
+  cs4496Win_Project3.vcxproj -> C:\Users\vinay\Documents\GT\CS 7496 Animation\Project2_Windows\MSVS_Proj3\Debug\cs4496Win_Project3.pdb (Full PDB)
